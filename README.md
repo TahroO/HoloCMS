@@ -3,6 +3,8 @@ HoloCMS ist eine Mixed-Reality-Anwendung für die Microsoft HoloLens 2, die es e
 
 Das Projekt wurde für das Forschungs- und Bildungszentrum für Kultur und Informationstechnologie (FKI) entwickelt und bietet Nutzern die Möglichkeit, interaktive und visuell ansprechende Inhalte an verschiedenen Orten zu erkunden.
 
+[HoloCMS in action als Video auf YoutTube](https://youtu.be/Pa1QPQL55yw?si=dz_KlC5z4bDihcYj)
+
 
 # 2. Deployment
 
